@@ -108,11 +108,3 @@ kocaeli-envanter-sistemi/
 
 Tüm uç noktalar (login hariç) `Authorization: Bearer <token>` başlığı ister.
 
-## Rapor İçin Not
-
-Bu proje, staj raporunuzdaki "Bölüm 4 – Proje ve Yapılan İş" kısmını
-genişletmek üzere tasarlanmıştır. Rapor yazarken her özelliği (4.1 Kullanılan
-Teknolojiler, 4.2 Sistem Mimarisi, 4.3 Veritabanı Tasarımı, 4.4 Backend, 4.5
-Frontend, 4.6 Arıza Takip Modülü, 4.7 Bakım Geçmişi Modülü, 4.8 Harita Modülü,
-4.9 Kullanıcı Girişi ve Yetkilendirme, 4.10 Test Süreci gibi) ayrı bir alt
-başlık altında anlatmanız sayfa sayısına doğal olarak katkı sağlar.
