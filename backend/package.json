@@ -1,0 +1,20 @@
+{
+  "name": "envanter-backend",
+  "version": "1.0.0",
+  "description": "Kocaeli Büyükşehir Belediyesi - Akıllı Envanter ve Arıza Takip Sistemi API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node src/seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
